@@ -11,4 +11,10 @@ The competition ended 4 years ago, so my results and rank are not what I have re
 Results : public score 0.39513
 Rank : 185/3251 (top 5.69%)
 
-[2] 
+[2] RandomForest_Baseline2.ipynb
+- Everything done same as [1], but I predicted 'casual' and 'registered' column separately and summed them to count for the final prediction. 
+
+Results : public score 0.38656
+Rank : 144/3251 (top 4.42%)
+
+[3]
