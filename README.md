@@ -20,4 +20,10 @@ The competition ended 4 years ago, so my results and rank are not what I have re
 ### Results : public score 0.38656
 ### Rank : 144/3251 (top 4.42%)
 
-[3]
+## [3] Ensemble_Domain.ipynb
+
+- Ensemble two models : lgbm and xgboost
+- Used domain knowledge
+
+### Results : public score 0.36023 
+### Rank : 13/3251 (top 0.39%)
